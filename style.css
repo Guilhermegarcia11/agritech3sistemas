@@ -103,12 +103,18 @@ body{
         width: 22%;
         margin: 1%;
         display: inline-block;
-        background-color: #fff;
+        background: #fff;
         border-radius: 15px;
         overflow: hidden;
+        float: left;
     }
     .produtos p{
         text-align: justify;
-        padding: 0 20px;
+        padding: 0px 20px;
         color: #19A762;
-    .produtos
+    }
+    .produtos h3{
+        text-align: center;
+        padding: 5px 20px;
+        color: #19A762;
+    }
