@@ -93,3 +93,22 @@ body{
       
         display: inline-block;
     }
+    .center{
+        text-align: center;
+    }
+    h2{
+        font-size: 40px;
+    }
+    .produtos .col.s3{
+        width: 22%;
+        margin: 1%;
+        display: inline-block;
+        background-color: #fff;
+        border-radius: 15px;
+        overflow: hidden;
+    }
+    .produtos p{
+        text-align: justify;
+        padding: 0 20px;
+        color: #19A762;
+    .produtos
